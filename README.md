@@ -757,5 +757,3 @@ contact.html
 ![Screenshot (25)](https://github.com/Abishai95141/softweb/assets/139335314/6a4f7a2e-4618-419a-ae7a-9903b2fc4d31)
 
 
-## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
